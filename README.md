@@ -1,5 +1,5 @@
 # Projeto de receitas
-Gerador de Posts de Receitas com Agentes de IA
+Gerador de Receitas com Agentes de IA
 
 #Visão Geral
 
